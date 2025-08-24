@@ -19,7 +19,6 @@ void traverse(ListNode head){
 
 [LC 1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 
-
 ---
 
 ### **2. Reverse a Linked List (Entire List)**
@@ -47,7 +46,6 @@ ListNode reverse(ListNode head){
 
 [LC 234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
-
 ---
 
 ### **3. Cycle Detection In Linked List**
@@ -72,7 +70,6 @@ boolean detectCycle(ListNode head){
 
 [LC 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 [LC 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-
 
 ---
 
