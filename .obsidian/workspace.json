@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "4d884b86552ec3c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5bdee059dd42785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea6d05cc4751b3e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8340fb0b305d6699",
+    "type": "split",
+    "children": [
+      {
+        "id": "48582c4eeb8eeb15",
+        "type": "tabs",
+        "dimension": 68.50574712643677,
+        "children": [
+          {
+            "id": "cda424f929587213",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b864cd82a0401c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc025268384f7498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5003ccc0639f0f9a",
+        "type": "tabs",
+        "dimension": 31.494252873563216,
+        "children": [
+          {
+            "id": "7a3abc9001f6d47a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47506ddaeee0821b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ac2b37a4638fe5",
+        "type": "tabs",
+        "dimension": 64.3640350877193,
+        "children": [
+          {
+            "id": "fbe51f9232923220",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ee879917c7f0a0da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a0ef271812adaf66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c719421d73000526",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bdaf880bed20cda2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "2a1704a72d31a551",
+        "type": "tabs",
+        "dimension": 35.635964912280706,
+        "children": [
+          {
+            "id": "ff41f263de9cf2a3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ea6d05cc4751b3e4",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2025-08-24.md",
+    "DSA/Prefix Sum Patterns.md",
+    "DSA/Linked List Patterns.md",
+    "DSA/Sliding Window Patterns.md",
+    "DSA/Two Pointer Patterns.md",
+    "Untitled.md",
+    "Untitled",
+    "DSA/Linked List Problem Patterns.md",
+    "2025-08-15.md",
+    "().md",
+    "DSA/Two_Pointer/Two_Pointer.md",
+    "DSA/Two_Pointer",
+    "DSA/ARRAYLIST_NOTE.md",
+    "DSA/ARRAY_NOTE.md",
+    "DSA/Array/Untitled.canvas",
+    "DSA/Array/Two Pointers.md",
+    "Welcome.md",
+    "DSA/Array",
+    "DSA"
+  ]
+}
