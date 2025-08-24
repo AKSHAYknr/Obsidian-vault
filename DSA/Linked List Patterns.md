@@ -70,5 +70,5 @@ boolean detectCycle(ListNode head){
 
 **LeetCode Problems :**
 
-
+[LC 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 [LC 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
