@@ -52,4 +52,10 @@ ListNode reverse(ListNode head){
 
 ### **3. Cycle Detection In Linked List**
 
-**When to use :** To detect infinite loops or repeated path (Floy)
+**When to use :** To detect infinite loops or repeated path (Floyd's Cycle Detection Algorithm)
+
+**Key Template :**
+
+```Java
+
+```
