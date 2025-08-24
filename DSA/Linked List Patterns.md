@@ -76,4 +76,6 @@ boolean detectCycle(ListNode head){
 
 ---
 
-4. Reverse Linked List Between two Indices
+### **4. Reverse Linked List Between two Indices**
+
+When to use
