@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5bdee059dd42785",
+        "id": "5c01f212cfba885a",
         "type": "tabs",
         "children": [
           {
-            "id": "ea6d05cc4751b3e4",
+            "id": "a26499398ab7c575",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,7 @@
       {
         "id": "48582c4eeb8eeb15",
         "type": "tabs",
-        "dimension": 68.50574712643677,
+        "dimension": 68.50574712643679,
         "children": [
           {
             "id": "cda424f929587213",
@@ -76,7 +76,7 @@
       {
         "id": "5003ccc0639f0f9a",
         "type": "tabs",
-        "dimension": 31.494252873563216,
+        "dimension": 31.49425287356322,
         "children": [
           {
             "id": "7a3abc9001f6d47a",
@@ -199,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -208,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea6d05cc4751b3e4",
+  "active": "a26499398ab7c575",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2025-08-24.md",
