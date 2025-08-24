@@ -62,8 +62,9 @@ boolean detectCycle(ListNode head){
 	while(fast != null && fast.next != null){
 		slow = slow.next; // move one step
 		fast = fast.next.next; // move two steps
-		if(slow == fast) return true; // if
+		if(slow == fast) return true; // when equal there is a cycle
 	}
 	return false;
 }
 ```
+
