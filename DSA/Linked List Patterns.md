@@ -50,5 +50,6 @@ ListNode reverse(ListNode head){
 
 ---
 
+### **3. Cycle Detection In Linked List**
 
-3. Cycle Detection In Linked List
+**When to use :** To dete
