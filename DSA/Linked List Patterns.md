@@ -77,3 +77,37 @@ boolean detectCycle(ListNode head){
 
 **When to use :** When the reversal is between two given positions (Left, Right) in the given linked list.
 
+	steps
+		- Create one dummy node that points to head node (keep track of head).
+		- Create a prev pointer and set that to left-1.
+		- Reverse from left to right.
+
+**Key Template :**
+
+```java
+ListNode reverseBetweenIndices(ListNode head){
+	ListNode dummy = new ListNode(0);
+	dummy.next = head;
+	ListNode prev = dummy;
+	
+	for(int i = 1; i < left; i++){
+		prev = prev.next;
+	}
+	
+	ListNode curr = prev.next;
+	for(int i = 0; i < right - left; i++){
+		ListNode temp = curr.next;
+		curr.next = temp.next;
+		temp.next = prev.next;
+		prev.next = temp;
+	}
+	return dummy.next;
+}
+```
+
+LeetCode Problems :
+
+[LC 92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+---
+
