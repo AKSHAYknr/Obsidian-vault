@@ -57,5 +57,8 @@ ListNode reverse(ListNode head){
 **Key Template :**
 
 ```Java
-
+boolean detectCycle(ListNode head){
+	ListNode slow = head, fast = head;
+	while(fast != null && fast.next)
+}
 ```
