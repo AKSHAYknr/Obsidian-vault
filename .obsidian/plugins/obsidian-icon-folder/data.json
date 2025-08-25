@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPython",
+      "🛫",
       "🫵",
       "🪟",
-      "➕",
-      "⛓",
-      "💸"
+      "➕"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,7 @@
   "DSA/Linked List Patterns.md": "⛓",
   "DSA/Prefix Sum Patterns.md": "➕",
   "DSA/Sliding Window Patterns.md": "🪟",
-  "DSA/Two Pointer Patterns.md": "🫵"
+  "DSA/Two Pointer Patterns.md": "🫵",
+  "AI_ML": "🛫",
+  "AI_ML/Python": "SiPython"
 }
