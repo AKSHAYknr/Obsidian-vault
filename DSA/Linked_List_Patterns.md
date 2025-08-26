@@ -111,3 +111,24 @@ LeetCode Problems :
 
 ---
 
+### **5. Find Middle Node**
+
+**When to use** : Splitting the list into two halves, palindrome check, binary operations.
+
+**Key Template :**
+
+```java
+ListNode middleNode(ListNode head){
+	ListNode slow = head, fast = head;
+	while(fast != null && fast.next != null){
+		slow = slow.next;
+		fast = fast.next.next;
+	}
+	return slow;
+}
+```
+
+[LC 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+---
+

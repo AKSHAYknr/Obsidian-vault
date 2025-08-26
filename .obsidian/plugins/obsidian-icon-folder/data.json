@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabJava",
       "SiPython",
       "🛫",
       "🫵",
-      "🪟",
-      "➕"
+      "🪟"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,10 +35,11 @@
     "useInternalPlugins": false
   },
   "DSA": "💸",
-  "DSA/Linked List Patterns.md": "⛓",
-  "DSA/Prefix Sum Patterns.md": "➕",
-  "DSA/Sliding Window Patterns.md": "🪟",
-  "DSA/Two Pointer Patterns.md": "🫵",
   "AI_ML": "🛫",
-  "AI_ML/Python": "SiPython"
+  "AI_ML/Python": "SiPython",
+  "DSA/Linked_List_Patterns.md": "⛓",
+  "DSA/Prefix_Sum_Patterns.md": "➕",
+  "DSA/Sliding_Window_Patterns.md": "🪟",
+  "DSA/Two_Pointer_Patterns.md": "🫵",
+  "Java": "FabJava"
 }
