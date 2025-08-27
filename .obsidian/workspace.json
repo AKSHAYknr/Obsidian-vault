@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Constrcutor.md",
+                "file": "Java/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Constrcutor"
+              "title": "Classes"
             }
           }
         ]
@@ -216,16 +216,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda424f929587213",
+  "active": "166f79b304cf444a",
   "lastOpenFiles": [
-    "Java/OOP (Object-Oriented-Programming).md",
+    "Java/Memory Management & Garbage Collection.md",
+    "Java/Classes.md",
     "Java/Constrcutor.md",
+    "AI_ML/Python/List & Tuples.md",
+    "AI_ML/Python/String.md",
+    "DSA/Linked_List_Patterns.md",
+    "Java/OOP (Object-Oriented-Programming).md",
     "Java/Working of java code.md",
     "Java/Untitled.canvas",
-    "AI_ML/Python/String.md",
     "Java",
     "AI_ML/Python/Basics.md",
-    "DSA/Linked_List_Patterns.md",
     "DSA/Two_Pointer_Patterns.md",
     "DSA/Sliding_Window_Patterns.md",
     "AI_ML/Python",
