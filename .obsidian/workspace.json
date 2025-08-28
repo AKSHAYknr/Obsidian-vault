@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cadb3732c07ee000",
+        "id": "05ce62ba24f53f2b",
         "type": "tabs",
         "children": [
           {
-            "id": "166f79b304cf444a",
+            "id": "f7065682344df37d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Classes.md",
+                "file": "AI_ML/Python/List & Tuples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "List & Tuples"
             }
           }
         ]
@@ -216,14 +216,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "166f79b304cf444a",
+  "active": "f7065682344df37d",
   "lastOpenFiles": [
+    "DSA/Linked_List_Patterns.md",
+    "Java/Classes/Object Class.md",
+    "Java/Classes/Abstract Class.md",
+    "Java/Classes/Concrete Class.md",
+    "Java/Classes/Nested Class (Inner Class).md",
+    "Untitled.base",
+    "Java/Classes",
     "Java/Memory Management & Garbage Collection.md",
-    "Java/Classes.md",
     "Java/Constrcutor.md",
     "AI_ML/Python/List & Tuples.md",
     "AI_ML/Python/String.md",
-    "DSA/Linked_List_Patterns.md",
     "Java/OOP (Object-Oriented-Programming).md",
     "Java/Working of java code.md",
     "Java/Untitled.canvas",
@@ -248,7 +253,6 @@
     "DSA/ARRAY_NOTE.md",
     "DSA/Array/Untitled.canvas",
     "DSA/Array/Two Pointers.md",
-    "Welcome.md",
     "DSA/Array",
     "DSA"
   ]
