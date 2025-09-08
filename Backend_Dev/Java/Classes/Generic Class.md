@@ -35,3 +35,26 @@ Here:
     
 - You can use multiple type parameters like `<K, V>` for key-value pairs.
 
+```java
+class Pair<K, V> {
+    private K key;
+    private V value;
+
+    public Pair(K key, V value) {
+        this.key = key;
+        this.value = value;
+    }
+
+    public void display() {
+        System.out.println("Key: " + key + " , Value: " + value);
+    }
+}
+```
+
+## 🔹 Why Use Generics?
+
+1. **Code Reusability** → Write once, use for any type.
+    
+2. **Type Safety** → No need for casting; compiler checks types.
+    
+3. **Readability & Maintainability** → Clear, consistent code.
