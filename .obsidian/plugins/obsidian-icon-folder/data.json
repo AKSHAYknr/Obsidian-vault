@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabAws",
       "SiStackoverflow",
       "FabJava",
       "SiPython",
-      "🛫",
-      "🫵"
+      "🛫"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,6 +41,6 @@
   "DSA/Prefix_Sum_Patterns.md": "➕",
   "DSA/Sliding_Window_Patterns.md": "🪟",
   "DSA/Two_Pointer_Patterns.md": "🫵",
-  "Java": "FabJava",
-  "DSA/Stack_Problems_Patterns.md": "SiStackoverflow"
+  "DSA/Stack_Problems_Patterns.md": "SiStackoverflow",
+  "Backend_Dev/Java": "FabJava"
 }
