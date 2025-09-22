@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3449a1fdf64c3566",
+        "id": "4e50b8971fcb0a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "f19fb68d384041c9",
+            "id": "28d9829b628739ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend_Dev/Javascript/Undefined vs Not defined.md",
+                "file": "Frontend_Dev/Javascript/Syntax error Vs Type error Vs Reference error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Undefined vs Not defined"
+              "title": "Syntax error Vs Type error Vs Reference error"
             }
           }
         ]
@@ -80,7 +80,7 @@
       {
         "id": "5003ccc0639f0f9a",
         "type": "tabs",
-        "dimension": 23.014959723820482,
+        "dimension": 23.014959723820485,
         "children": [
           {
             "id": "7a3abc9001f6d47a",
@@ -216,18 +216,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f19fb68d384041c9",
+  "active": "28d9829b628739ab",
   "lastOpenFiles": [
-    "Frontend_Dev/Javascript/Window Object & This Keyword.md",
+    "Frontend_Dev/Javascript/Scope & Lexical Environment.md",
+    "Frontend_Dev/Javascript/Let & Const.md",
+    "Frontend_Dev/Javascript/Syntax error Vs Type error Vs Reference error.md",
+    "Frontend_Dev/Javascript/Temporal Dead Zone.md",
+    "Backend_Dev/Java/Classes/Immutable Class.md",
+    "Backend_Dev/Java/Classes/Singleton Class.md",
+    "Backend_Dev/Java/Classes/Final Class.md",
+    "AI_ML/Python/Numpy.md",
+    "AI_ML/Python/OOP.md",
+    "Backend_Dev/Java/Classes/Nested Class (Inner Class).md",
+    "Backend_Dev/Java/Memory Management & Garbage Collection.md",
     "Frontend_Dev/Javascript/Undefined vs Not defined.md",
+    "Frontend_Dev/Javascript/Window Object & This Keyword.md",
     "Frontend_Dev/Javascript/Hoisting.md",
     "Frontend_Dev/Javascript/Working Of Functions.canvas",
     "Frontend_Dev/Javascript/Execution Context.md",
-    "Backend_Dev/Java/Classes/Immutable Class.md",
     "Frontend_Dev/React/Untitled.md",
     "Frontend_Dev/React",
-    "Backend_Dev/Java/Classes/Final Class.md",
-    "Backend_Dev/Java/Classes/Singleton Class.md",
     "Backend_Dev/Java/Classes/Generic Class.md",
     "Frontend_Dev/React",
     "Frontend_Dev/CSS",
@@ -235,12 +243,9 @@
     "Frontend_Dev/Javascript",
     "Frontend_Dev",
     "Backend_Dev/Aws",
-    "Backend_Dev/Java/Classes/Nested Class (Inner Class).md",
-    "AI_ML/Python/OOP.md",
     "DSA/Stack_Problems_Patterns.md",
     "Backend_Dev/Java/Working of java code.md",
     "Backend_Dev/Java/OOP (Object-Oriented-Programming).md",
-    "Backend_Dev/Java/Memory Management & Garbage Collection.md",
     "DSA/Arrays",
     "DSA/Important DSA Patterns.md",
     "Backend_Dev",
@@ -249,11 +254,6 @@
     "AI_ML/Python/List & Tuples.md",
     "AI_ML/Python/String.md",
     "AI_ML/Python/Loops.md",
-    "DSA/Two_Pointer_Patterns.md",
-    "Backend_Dev/Java/Constrcutor.md",
-    "Backend_Dev/Java/Classes/Object Class.md",
-    "DSA/Sliding_Window_Patterns.md",
-    "DSA/Prefix_Sum_Patterns.md",
     "DSA/DSA.base",
     "Untitled.canvas",
     "Java/Untitled.canvas",
