@@ -32,9 +32,14 @@
         
     - Rare in distributed systems.
 
+### **Key Points**
 
-
-
-
+- **Partition tolerance is unavoidable** in real distributed systems because networks **can fail anytime**.
+    
+- CAP theorem says that **in the presence of a partition**, you must **choose between consistency (C) and availability (A)**:
+    
+    - **CP system:** Consistency over availability → some requests may fail during partition.
+        
+    - **AP system:** Availability over consistency → all requests succeed, but data might be temporarily inconsistent.
 
 
