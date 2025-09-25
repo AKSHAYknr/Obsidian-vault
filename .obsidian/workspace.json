@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3189bd555bf6a43a",
+        "id": "fa96374f267c9b6e",
         "type": "tabs",
         "children": [
           {
-            "id": "68fdd74b1865f0c5",
+            "id": "8b0ccea4b2c1cbbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "System_Design/Scale from zero to million users.md",
-                "mode": "source",
-                "source": false
+                "file": "System_Design/TinyURL.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Scale from zero to million users"
+              "icon": "excalidraw-icon",
+              "title": "TinyURL.excalidraw"
             }
           }
         ]
@@ -33,7 +31,6 @@
       {
         "id": "48582c4eeb8eeb15",
         "type": "tabs",
-        "dimension": 76.98504027617952,
         "children": [
           {
             "id": "cda424f929587213",
@@ -73,27 +70,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5003ccc0639f0f9a",
-        "type": "tabs",
-        "dimension": 23.014959723820482,
-        "children": [
-          {
-            "id": "7a3abc9001f6d47a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Two_Pointer_Patterns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two_Pointer_Patterns"
             }
           }
         ]
@@ -221,11 +197,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "68fdd74b1865f0c5",
+  "active": "8b0ccea4b2c1cbbe",
   "lastOpenFiles": [
-    "DSA/Two_Pointer_Patterns.md",
+    "System_Design/Tiny URL - System Design.md",
+    "System_Design/TinyURL.excalidraw.md",
     "System_Design/Scale from zero to million users.md",
+    "Excalidraw/Drawing 2025-09-25 08.52.38.excalidraw.md",
+    "DSA/Stack_Problems_Patterns.md",
+    "DSA/Linked_List_Patterns.md",
     "DSA/Prefix_Sum_Patterns.md",
+    "DSA/Two_Pointer_Patterns.md",
+    "Excalidraw",
+    "System_Design/Consistent Hashing.md",
+    "Backend_Dev/Java/Stream API.md",
+    "Backend_Dev/Java/HashMap & Concurrent HashMap.md",
+    "Backend_Dev/Java/LinkedHashMap & TreeMap.md",
     "System_Design/CAP Theorem.md",
     "System_Design/Microservice Design Patterns.md",
     "System_Design/Network Protocols.md",
@@ -238,19 +224,10 @@
     "DSA/Arrays/Array.md",
     "System_Design",
     "AI_ML/Python/Numpy.md",
-    "Backend_Dev/Java/LinkedHashMap & TreeMap.md",
     "Backend_Dev/Java/Comparable Vs Comparator.md",
     "Backend_Dev/Java/Reflection.md",
     "Backend_Dev/Java/Functional Interface & Lambda Expression.md",
     "Backend_Dev/Java/Interface.md",
-    "Backend_Dev/Java/Classes/Generic Class.md",
-    "Frontend_Dev/Javascript/Closures.md",
-    "Frontend_Dev/Javascript/Block Scope & Shadowing.md",
-    "Frontend_Dev/Javascript/Syntax error Vs Type error Vs Reference error.md",
-    "Frontend_Dev/Javascript/Temporal Dead Zone.md",
-    "Frontend_Dev/Javascript/Let & Const.md",
-    "Frontend_Dev/Javascript/Scope & Lexical Environment.md",
-    "Frontend_Dev/Javascript/Undefined vs Not defined.md",
     "Frontend_Dev/Javascript/Working Of Functions.canvas",
     "Frontend_Dev/React",
     "Frontend_Dev/React",
@@ -260,7 +237,6 @@
     "Frontend_Dev",
     "Backend_Dev/Aws",
     "DSA/Arrays",
-    "Backend_Dev",
     "Untitled.canvas",
     "Java/Untitled.canvas",
     "DSA/Array/Untitled.canvas"
