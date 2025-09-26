@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa96374f267c9b6e",
+        "id": "030281f9844a4e89",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0ccea4b2c1cbbe",
+            "id": "b0f4545bccab797b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System_Design/TinyURL.excalidraw.md"
+                "file": "DSA/🛣️ DSA Roadmap (Hierarchical).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "TinyURL.excalidraw"
+              "icon": "lucide-file",
+              "title": "🛣️ DSA Roadmap (Hierarchical)"
             }
           }
         ]
@@ -197,10 +199,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8b0ccea4b2c1cbbe",
+  "active": "b0f4545bccab797b",
   "lastOpenFiles": [
-    "System_Design/Tiny URL - System Design.md",
+    "DSA/🛣️ DSA Roadmap (Hierarchical).md",
     "System_Design/TinyURL.excalidraw.md",
+    "System_Design/Tiny URL - System Design.md",
     "System_Design/Scale from zero to million users.md",
     "Excalidraw/Drawing 2025-09-25 08.52.38.excalidraw.md",
     "DSA/Stack_Problems_Patterns.md",
@@ -227,7 +230,6 @@
     "Backend_Dev/Java/Comparable Vs Comparator.md",
     "Backend_Dev/Java/Reflection.md",
     "Backend_Dev/Java/Functional Interface & Lambda Expression.md",
-    "Backend_Dev/Java/Interface.md",
     "Frontend_Dev/Javascript/Working Of Functions.canvas",
     "Frontend_Dev/React",
     "Frontend_Dev/React",
