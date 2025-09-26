@@ -1,21 +1,21 @@
 
 ## Foundations
 - [x] Time & Space Complexity
-- [ ] Recursion basics
-- [ ] Math refresher (logs, powers, modular arithmetic)
+- [x] Recursion basics
+- [x] Math refresher (logs, powers, modular arithmetic)
 
 ## Arrays
-- [ ] Basics (insert, delete, traverse)
+- [x] Basics (insert, delete, traverse)
 
 ## Strings
-- [ ] String operations in Java
-- [ ] Palindrome problems
-- [ ] Substring search
+- [x] String operations in Java
+- [x] Palindrome problems
+- [x] Substring search
 
 ## Linked List
-- [ ] Singly Linked List
-- [ ] Doubly Linked List
-- [ ] Circular Linked List
+- [x] Singly Linked List
+- [x] Doubly Linked List
+- [x] Circular Linked List
 ## Stack & Queue
 - [ ] Stack
 - [ ] Queue (normal, circular)
@@ -23,12 +23,12 @@
 - [ ] Priority Queue / Heap
 
 ## Hashing
-- [ ] HashMap & HashSet
+- [x] HashMap & HashSet
 
 ## Sorting Algorithms
-- [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
+- [x] Bubble Sort
+- [x] Selection Sort
+- [x] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Heap Sort
