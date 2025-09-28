@@ -17,9 +17,9 @@
 - [x] Doubly Linked List
 - [x] Circular Linked List
 ## Stack & Queue
-- [ ] Stack
-- [ ] Queue (normal, circular)
-- [ ] Deque
+- [x] Stack
+- [x] Queue (normal, circular)
+- [x] Deque
 - [ ] Priority Queue / Heap
 
 ## Hashing
@@ -35,11 +35,11 @@
 - [ ] Counting / Radix / Bucket Sort
 
 ## Binary Search
-- [ ] Classic binary search
+- [x] Classic binary search
 - [ ] Variants (first/last occurrence, ceil/floor)
 
 ## Recursion & Backtracking
-- [ ] Recursion practice (factorial, subsets, permutations)
+- [x] Recursion practice (factorial, subsets, permutations)
 - [ ] N-Queens
 - [ ] Rat in a Maze
 - [ ] Sudoku Solver
