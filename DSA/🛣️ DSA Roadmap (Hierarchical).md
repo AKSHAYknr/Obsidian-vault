@@ -36,7 +36,7 @@
 
 ## Binary Search
 - [x] Classic binary search
-- [ ] Variants (first/last occurrence, ceil/floor)
+- [x] Variants (first/last occurrence, ceil/floor)
 
 ## Recursion & Backtracking
 - [x] Recursion practice (factorial, subsets, permutations)
