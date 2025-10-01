@@ -53,7 +53,7 @@
 - `sorted()` → sort elements
     
 - `peek()` → debug elements
-    
+
 
 **b) Terminal Operations** (produce result)
 
@@ -93,3 +93,60 @@ flowchart TD
     class E term;
     class F result;
 ```
+
+There are multiple ways to create a stream depending on the source of data. Here’s a detailed list:
+
+1. From Collection
+
+```java
+ArrayList<Integer> list = new ArrayList<>();
+
+Stream<Integer> stream = list.stream();
+```
+
+2. From Arrays
+
+```java
+int[] arr = new int[]{1, 2, 3, 4, 5};
+
+Stream<Integer> stream = Arrays.stream(arr);
+```
+
+3. From Static Methods
+
+```java
+Stream<Integer> stream = Stream.of(1000, 3000, 5000);
+```
+
+4. From Stream Builder
+
+```java
+Stream<String> stream = Stream.<String>builder()
+        .add("Java")
+        .add("Python")
+        .add("C++")
+        .build();
+```
+
+# 🔹 What is a Parallel Stream?
+
+- A **parallel stream** divides the data source into multiple chunks and processes them **in parallel** using the **Fork/Join Framework** and multiple threads (from the **common ForkJoinPool**).
+    
+- This can **speed up execution** on multi-core processors, especially for **large data sets** and **CPU-intensive tasks**.
+
+```java
+List<String> names = new ArrayList<>();
+
+names.parallelstream().foreach(System.out::println);
+```
+
+	# 🔹 When to Use Parallel Streams
+
+✅ Use when:
+
+- Large data sets (millions of elements).
+    
+- CPU-intensive operations (e.g., mathematical computations, transformations).
+    
+- Tasks are **independent** (no shared mutable state)
+
