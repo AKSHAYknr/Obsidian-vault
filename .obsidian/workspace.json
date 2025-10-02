@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend_Dev/Java/Multithreading.md",
+                "file": "Frontend_Dev/Javascript/JavaScript Runtime Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multithreading"
+              "title": "JavaScript Runtime Environment"
             }
           }
         ]
@@ -199,10 +199,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cda424f929587213",
+  "active": "57e26b319d5df415",
   "lastOpenFiles": [
-    "Backend_Dev/Java/Stream API.md",
+    "Frontend_Dev/Javascript/Async JavaScript & Event Loops.md",
+    "Frontend_Dev/Javascript/JavaScript Runtime Environment.md",
+    "Frontend_Dev/Javascript/Callback Functions.md",
+    "Frontend_Dev/Javascript/Functions.md",
     "Backend_Dev/Java/Multithreading.md",
+    "Backend_Dev/Java/Stream API.md",
     "Backend_Dev/Java/HashMap & Concurrent HashMap.md",
     "Schedule.md.md",
     "Untitled.base",
@@ -210,7 +214,6 @@
     "DSA/Array/🔑 Two Pointers Pattern (Opposite Ends).md",
     "Frontend_Dev/Javascript/Execution Context.md",
     "DSA/Array",
-    "Frontend_Dev/Javascript/Functions.md",
     "DSA/🛣️ DSA Roadmap (Hierarchical).md",
     "System_Design/LLD",
     "System_Design/HLD/Network Protocols.md",
@@ -228,9 +231,6 @@
     "Frontend_Dev/Javascript/Let & Const.md",
     "Frontend_Dev/Javascript/Scope & Lexical Environment.md",
     "Frontend_Dev/Javascript/Undefined vs Not defined.md",
-    "Frontend_Dev/Javascript/Window Object & This Keyword.md",
-    "Frontend_Dev/Javascript/Hoisting.md",
-    "System_Design/HLD/Scale from zero to million users.md",
     "Excalidraw",
     "System_Design/Untitled.canvas",
     "System_Design",
