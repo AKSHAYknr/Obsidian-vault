@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend_Dev/Javascript/JavaScript Runtime Environment.md",
+                "file": "AWS/🌐 AWS S3 (Simple Storage Service).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Runtime Environment"
+              "title": "🌐 AWS S3 (Simple Storage Service)"
             }
           }
         ]
@@ -201,8 +201,14 @@
   },
   "active": "57e26b319d5df415",
   "lastOpenFiles": [
-    "Frontend_Dev/Javascript/Async JavaScript & Event Loops.md",
+    "AWS/🔹 AWS IAM (Identity and Access Management).md",
+    "AWS/🌐 AWS S3 (Simple Storage Service).md",
+    "AWS/🌐 AWS (Amazon Web Services).md",
+    "System_Design/HLD/TinyURL.excalidraw.md",
+    "AWS",
+    "DSA/Array/🟢 Merge Intervals Pattern.md",
     "Frontend_Dev/Javascript/JavaScript Runtime Environment.md",
+    "Frontend_Dev/Javascript/Async JavaScript & Event Loops.md",
     "Frontend_Dev/Javascript/Callback Functions.md",
     "Frontend_Dev/Javascript/Functions.md",
     "Backend_Dev/Java/Multithreading.md",
@@ -210,7 +216,6 @@
     "Backend_Dev/Java/HashMap & Concurrent HashMap.md",
     "Schedule.md.md",
     "Untitled.base",
-    "DSA/Array/🟢 Merge Intervals Pattern.md",
     "DSA/Array/🔑 Two Pointers Pattern (Opposite Ends).md",
     "Frontend_Dev/Javascript/Execution Context.md",
     "DSA/Array",
@@ -221,16 +226,12 @@
     "System_Design/HLD",
     "Backend_Dev/Java/Constrcutor.md",
     "Backend_Dev/Java/Working of java code.md",
-    "System_Design/HLD/TinyURL.excalidraw.md",
     "System_Design/HLD/Tiny URL - System Design.md",
     "System_Design/HLD/Microservice Design Patterns.md",
     "System_Design/HLD/CAP Theorem.md",
     "Frontend_Dev/Javascript/Closures.md",
     "Frontend_Dev/Javascript/Block Scope & Shadowing.md",
     "Frontend_Dev/Javascript/Temporal Dead Zone.md",
-    "Frontend_Dev/Javascript/Let & Const.md",
-    "Frontend_Dev/Javascript/Scope & Lexical Environment.md",
-    "Frontend_Dev/Javascript/Undefined vs Not defined.md",
     "Excalidraw",
     "System_Design/Untitled.canvas",
     "System_Design",
@@ -238,7 +239,6 @@
     "Frontend_Dev/React",
     "Frontend_Dev/React",
     "Frontend_Dev/CSS",
-    "Frontend_Dev/HTML",
     "Untitled.canvas",
     "Java/Untitled.canvas",
     "DSA/Array/Untitled.canvas"
