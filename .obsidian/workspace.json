@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38ace5e81a02381d",
+        "id": "32e4149b9e884eba",
         "type": "tabs",
         "children": [
           {
-            "id": "57e26b319d5df415",
+            "id": "c37fb0f4977d0a04",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System_Design/HLD/TinyURL.excalidraw.md"
+                "file": "Backend_Dev/Java/ThreadPoolExecutor Framework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "TinyURL.excalidraw"
+              "icon": "lucide-file",
+              "title": "ThreadPoolExecutor Framework"
             }
           }
         ]
@@ -197,21 +199,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "57e26b319d5df415",
+  "active": "c37fb0f4977d0a04",
   "lastOpenFiles": [
+    "Backend_Dev/Java/Lock Interface.md",
+    "Backend_Dev/Java/ThreadPoolExecutor Framework.md",
+    "Backend_Dev/Java/Thread Priority.md",
+    "Backend_Dev/Java/Daemon Thread.md",
+    "Backend_Dev/Java/Thread Joining.md",
+    "Frontend_Dev/Javascript/JavaScript Runtime Environment.md",
+    "Backend_Dev/Java/Multithreading.md",
+    "System_Design/HLD/TinyURL.excalidraw.md",
     "AWS/🧩 AWS RDS.md",
     "AWS/🌐 AWS EC2.md",
     "AWS/🌐 AWS S3 (Simple Storage Service).md",
     "AWS/🔹 AWS IAM (Identity and Access Management).md",
     "AWS/🌐 AWS (Amazon Web Services).md",
-    "System_Design/HLD/TinyURL.excalidraw.md",
     "AWS",
     "DSA/Array/🟢 Merge Intervals Pattern.md",
-    "Frontend_Dev/Javascript/JavaScript Runtime Environment.md",
     "Frontend_Dev/Javascript/Async JavaScript & Event Loops.md",
     "Frontend_Dev/Javascript/Callback Functions.md",
     "Frontend_Dev/Javascript/Functions.md",
-    "Backend_Dev/Java/Multithreading.md",
     "Backend_Dev/Java/Stream API.md",
     "Backend_Dev/Java/HashMap & Concurrent HashMap.md",
     "Schedule.md.md",
@@ -225,11 +232,6 @@
     "System_Design/HLD/Consistent Hashing.md",
     "System_Design/HLD",
     "Backend_Dev/Java/Constrcutor.md",
-    "Backend_Dev/Java/Working of java code.md",
-    "System_Design/HLD/Tiny URL - System Design.md",
-    "System_Design/HLD/Microservice Design Patterns.md",
-    "System_Design/HLD/CAP Theorem.md",
-    "Frontend_Dev/Javascript/Closures.md",
     "Excalidraw",
     "System_Design/Untitled.canvas",
     "System_Design",
