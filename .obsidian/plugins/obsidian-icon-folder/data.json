@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSpringboot",
       "FabAws",
       "SiStackoverflow",
       "FabJava",
-      "SiPython",
-      "🛫"
+      "SiPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "AI_ML": "🛫",
   "AI_ML/Python": "SiPython",
   "Backend_Dev/Java": "FabJava",
-  "AWS": "FabAws"
+  "AWS": "FabAws",
+  "Backend_Dev/Spring Boot": "SiSpringboot"
 }
