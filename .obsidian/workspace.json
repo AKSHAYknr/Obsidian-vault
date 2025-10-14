@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend_Dev/Spring Boot/Spring Boot AOP (Aspect-Oriented Programming).md",
+                "file": "Backend_Dev/Spring Boot/ResponseEntity & Response Codes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Boot AOP (Aspect-Oriented Programming)"
+              "title": "ResponseEntity & Response Codes"
             }
           }
         ]
@@ -201,8 +201,13 @@
   },
   "active": "1db330627ad1e0db",
   "lastOpenFiles": [
-    "Backend_Dev/Spring Boot/@Profile.md",
+    "Backend_Dev/Spring Boot/Interceptor.md",
+    "Backend_Dev/Spring Boot/ResponseEntity & Response Codes.md",
+    "Backend_Dev/Spring Boot/@Async.md",
+    "Backend_Dev/Spring Boot/@Transactional.md",
     "Backend_Dev/Spring Boot/Spring Boot AOP (Aspect-Oriented Programming).md",
+    "AWS/🧩 AWS RDS.md",
+    "Backend_Dev/Spring Boot/@Profile.md",
     "Backend_Dev/Spring Boot/@ConditionalOnProperty.md",
     "Backend_Dev/Spring Boot/@Value.md",
     "Backend_Dev/Spring Boot/Dependency Injection (DI) in Spring Boot.md",
@@ -223,13 +228,8 @@
     "System_Design/LLD/Observer Design Pattern.md",
     "System_Design/LLD/Strategy Design Pattern.md",
     "DSA/Two Pointers.md",
-    "().md",
-    "Two Sum II – Input Array Is Sorted (.md",
-    "DSA/🧩 Two Pointer Pattern (Opposite Ends).md",
     "DSA/Array",
     "DSA",
-    "Schedule.md.md",
-    "DSA/Array/🟢 Merge Intervals Pattern.md",
     "Backend_Dev/Spring Boot",
     "Backend_Dev/Java/Multithreading",
     "AWS",
