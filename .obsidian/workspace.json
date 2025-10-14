@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend_Dev/Spring Boot/@Controller vs @RestController.md",
+                "file": "Backend_Dev/Spring Boot/Spring Boot AOP (Aspect-Oriented Programming).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Controller vs @RestController"
+              "title": "Spring Boot AOP (Aspect-Oriented Programming)"
             }
           }
         ]
@@ -201,16 +201,22 @@
   },
   "active": "1db330627ad1e0db",
   "lastOpenFiles": [
+    "Backend_Dev/Spring Boot/@Profile.md",
+    "Backend_Dev/Spring Boot/Spring Boot AOP (Aspect-Oriented Programming).md",
+    "Backend_Dev/Spring Boot/@ConditionalOnProperty.md",
+    "Backend_Dev/Spring Boot/@Value.md",
+    "Backend_Dev/Spring Boot/Dependency Injection (DI) in Spring Boot.md",
+    "System_Design/LLD/Solid Principle.md",
+    "System_Design/LLD/Factory Design Pattern.md",
+    "Backend_Dev/Spring Boot/@Controller vs @RestController.md",
     "Frontend_Dev/Javascript/Async JavaScript & Event Loops.md",
     "Frontend_Dev/Javascript/JavaScript Runtime Environment.md",
-    "Backend_Dev/Spring Boot/@Controller vs @RestController.md",
     "Backend_Dev/Spring Boot/Spring Boot vs Spring MVC vs Servlets.md",
     "Backend_Dev/Spring Boot/Spring Boot Beans and Their Lifecycle.md",
     "Backend_Dev/Spring Boot/Apache Maven and Its Lifecycle.md",
     "Backend_Dev/Spring Boot/Spring Boot Project Structure.md",
     "DSA/Kadane's Algorithm.md",
     "DSA/Moore's Voting Algorithm.md",
-    "System_Design/LLD/Factory Design Pattern.md",
     "System_Design/LLD/Decorator Design Pattern.md",
     "DSA Roadmap.md",
     "Untitled.base",
@@ -223,13 +229,7 @@
     "DSA/Array",
     "DSA",
     "Schedule.md.md",
-    "System_Design/LLD/Solid Principle.md",
     "DSA/Array/🟢 Merge Intervals Pattern.md",
-    "DSA/Array/🔑 Two Pointers Pattern (Opposite Ends).md",
-    "System_Design/HLD/SQL vs NoSQL.md",
-    "System_Design/HLD/Tiny URL - System Design.md",
-    "System_Design/HLD/Scale from zero to million users.md",
-    "System_Design/HLD/Microservice Design Patterns.md",
     "Backend_Dev/Spring Boot",
     "Backend_Dev/Java/Multithreading",
     "AWS",
