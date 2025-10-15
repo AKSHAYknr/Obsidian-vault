@@ -1,12 +1,9 @@
 
 ---
-## 📚 **Overlapping Intervals**
-
 Intervals problems often involve sorting by start (or end) time, then merging, detecting overlaps, or inserting in the correct position.
 
 #### 1.Merge Intervals
 
-Code Template :
 
 ```java
 public int[][] mergeIntervals(int[][] intervals) {
@@ -33,7 +30,6 @@ public int[][] mergeIntervals(int[][] intervals) {
 
 #### 2.Insert Interval
 
-Code Template :
 
 ```java
 class Solution {
@@ -74,7 +70,6 @@ class Solution {
 
 #### 3. Non Overlapping Interval
 
-Code Template :
 
 ```java
 public int nonOverLapping(int[][] intervals){
@@ -99,17 +94,8 @@ public int nonOverLapping(int[][] intervals){
 
 
 
-### 🧩 Interval List Intersections (Two-Pointer Approach)
+#### 4. Interval List Intersections (Two-Pointer Approach)
 
-**Problem:**  
-Given two lists of disjoint intervals sorted in ascending order, find all overlapping intervals between them.
-
-**Approach:**  
-Use two pointers to traverse both lists.  
-For each pair of intervals:
-- Find the overlapping range using `start = max(start1, start2)` and `end = min(end1, end2)`.
-- If `start <= end`, an overlap exists → add it to the result.
-- Move the pointer whose interval ends first.
 
 ```java
 public int[][] intervalIntersection(int[][] firstList, int[][] secondList) {
@@ -143,4 +129,12 @@ public int[][] intervalIntersection(int[][] firstList, int[][] secondList) {
 
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
- 
+
+📝 Interval Problems Summary
+
+| Problem                     | Sorting / Order             | Approach / Pattern                                   | Time Complexity | Space Complexity |
+| --------------------------- | --------------------------- | ---------------------------------------------------- | --------------- | ---------------- |
+| Merge Intervals             | Sort by start               | Merge overlapping intervals                          | O(n log n)      | O(n)             |
+| Insert Interval             | Sort by start (if unsorted) | Add non-overlapping → merge overlaps → add remaining | O(n)            | O(n)             |
+| Non-overlapping Intervals   | Sort by end                 | Greedy: remove overlaps while scanning by end        | O(n log n)      | O(1)             |
+| Interval List Intersections | Lists sorted by start       | Two-pointer scan → compute overlaps                  | O(n + m)        | O(1)             |
