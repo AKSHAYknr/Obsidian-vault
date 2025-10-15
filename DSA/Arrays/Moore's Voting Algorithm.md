@@ -24,16 +24,19 @@ Used to find the **majority element** (element appearing more than `n/2` times) 
 ⚙️ **Template** :
 
 ```java
-int count = 0; int candidate = 0;
-for(int num : nums){
-	if(count == 0){
-		candidate = num;
-		count++;
-	}else if(candidate == num){
-		count++;
-	}else{
-		count--;
+public int majorityElement(int[] nums){
+	int count = 0; int candidate = 0;
+	for(int num : nums){
+		if(count == 0){
+			candidate = num;
+			count++;
+		}else if(candidate == num){
+			count++;
+		}else{
+			count--;
+		}
 	}
+	return candidate;
 }
 ```
 
