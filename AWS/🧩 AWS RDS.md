@@ -113,7 +113,7 @@ spring.jpa.hibernate.ddl-auto=update
 - **Automatic failover** → Use Multi-AZ deployment
     
 - **Performance Insights** → Visualize DB performance and queries
-    
+
 
 ---
 

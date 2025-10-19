@@ -46,3 +46,20 @@ System.out.println(sum); // 16
     }
 ```
 
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+3. 2D Prefix Sum (Matrix)
+
+```java
+int m = mat.length, n = mat[0].length;
+int[][] prefix = new int[m + 1][n + 1];
+for (int i = 1; i <= m; i++)
+    for (int j = 1; j <= n; j++)
+        prefix[i][j] = mat[i-1][j-1] + prefix[i-1][j] + prefix[i][j-1] - prefix[i-1][j-1];
+
+int r1 = 2, c1 = 1, r2 = 4, c2 = 3;
+int sum = prefix[r2+1][c2+1] - prefix[r1][c2+1] - prefix[r2+1][c1] + prefix[r1][c1];
+```
+
+[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+
