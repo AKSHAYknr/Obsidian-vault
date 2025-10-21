@@ -119,3 +119,57 @@ import java.util.List;
 }
 ```
 
+🏗️ JPA Architecture Diagram
+
+```mermaid
+flowchart TD
+
+A[Java Application Layer]
+B[JPA Layer]
+C[ORM Provider - Hibernate]
+D[JDBC Layer]
+E[(Database)]
+
+A --> B
+B --> C
+C --> D
+D --> E
+
+subgraph Application_Layer [Application Layer]
+    A1[Entities]
+    A2[Repositories]
+    A3[Services]
+    A4[Controllers]
+end
+
+subgraph JPA_Layer [JPA Layer Components]
+    B1[EntityManagerFactory]
+    B2[EntityManager]
+    B3[Persistence Context]
+    B4[JPQL / Criteria API]
+    B5[Persistence Unit]
+end
+
+subgraph ORM_Layer [ORM Provider Components]
+    C1[ORM Mapping Engine]
+    C2[Transaction Management]
+    C3[Second-Level Cache]
+    C4[Schema Generation]
+end
+
+subgraph JDBC_Layer [JDBC Components]
+    D1[Connection]
+    D2[PreparedStatement]
+    D3[ResultSet]
+    D4[Driver]
+end
+
+Application_Layer --> JPA_Layer
+JPA_Layer --> ORM_Layer
+ORM_Layer --> JDBC_Layer
+JDBC_Layer --> E
+```
+
+
+
+
