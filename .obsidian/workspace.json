@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend_Dev/Spring Boot/Microservices/RestTemplate.md",
+                "file": "DSA/Array/Overlapping Intervals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RestTemplate"
+              "title": "Overlapping Intervals"
             }
           }
         ]
@@ -199,10 +199,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "389f979b76044cd9",
+  "active": "cda424f929587213",
   "lastOpenFiles": [
-    "Backend_Dev/Spring Boot/Untitled.md",
+    "DSA/Binary Search/Basic Binary Search.md",
+    "Backend_Dev/Spring Boot/Microservices/Feign Client.md",
     "Backend_Dev/Spring Boot/Microservices/RestTemplate.md",
+    "Backend_Dev/Spring Boot/Untitled.md",
     "Backend_Dev/Spring Boot/Microservices",
     "Backend_Dev/Spring Boot/Spring Security/OAuth 2.0.md",
     "Backend_Dev/Spring Boot/Spring Security/OAuth 2.0.excalidraw.md",
@@ -227,8 +229,6 @@
     "Backend_Dev/Spring Boot/JPA/Second-Level Cache.md",
     "Backend_Dev/Spring Boot/Spring Security",
     "Backend_Dev/Spring Boot/JPA/Derived Queries and JPQL.md",
-    "Backend_Dev/Spring Boot/JPA/Map DTO to Table.md",
-    "Backend_Dev/Spring Boot/JPA/First Level Caching.md",
     "DSA/Binary Search",
     "DSA/String",
     "Backend_Dev/Spring Boot/JPA",
