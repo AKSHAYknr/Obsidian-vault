@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_ML/ML/Exploratory Data Analysis (EDA).md",
+                "file": "AI_ML/ML/Feature Scaling/Normalization/MinMaxScaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploratory Data Analysis (EDA)"
+              "title": "MinMaxScaling"
             }
           }
         ]
@@ -199,21 +199,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ec7e7c45ea9fceb4",
+  "active": "cda424f929587213",
   "lastOpenFiles": [
-    "AI_ML/ML/Framing ML Problem.md",
+    "AI_ML/ML/Feature Scaling/Standardization.md",
+    "AI_ML/ML/Feature Scaling/Normalization/MinMaxScaling.md",
+    "AI_ML/ML/Feature Scaling/Normalization",
+    "AI_ML/ML/YData Profiling (Pandas Profiling).md",
+    "AI_ML/ML/Feature Scaling",
     "AI_ML/ML/Exploratory Data Analysis (EDA).md",
+    "AI_ML/ML/Framing ML Problem.md",
     "AI_ML/ML/Tensor.md",
-    "AI_ML/ML/Machine Learning Development Lifecycle (MLDLC).md",
     "AI_ML/ML/Instance based vs Model based.md",
+    "AI_ML/ML/Machine Learning Development Lifecycle (MLDLC).md",
+    "AI_ML/ML/Types/Online Machine Learning.md",
+    "AI_ML/ML/Types/Batch Machine Learning.md",
     "AI_ML/ML/Types/Semi-Supervised Learning.md",
+    "AI_ML/ML/Types/Unsupervised Learning.md",
+    "AI_ML/ML/Types/Supervised Learning.md",
     "AI_ML/ML/Types/Untitled.md",
     "AI_ML/ML/Numpy/Numpy.md",
     "AI_ML/ML/Numpy",
-    "AI_ML/ML/Types/Online Machine Learning.md",
-    "AI_ML/ML/Types/Batch Machine Learning.md",
-    "AI_ML/ML/Types/Unsupervised Learning.md",
-    "AI_ML/ML/Types/Supervised Learning.md",
     "AI_ML/ML/Types",
     "AI_ML/ML",
     "AI_ML/Untitled.md",
@@ -228,15 +233,10 @@
     "Backend_Dev/Spring Boot/Spring Security/OAuth 2.0.excalidraw.md",
     "Backend_Dev/Spring Boot/Spring Security/JWT vs SessionID.md",
     "Backend_Dev/Spring Boot/Spring Security/User Registration.excalidraw.md",
-    "Backend_Dev/Spring Boot/Spring Security/JWT Authentication.excalidraw.md",
-    "AI_ML/Python/Conditional Expression.md",
-    "Backend_Dev/Spring Boot/Spring Security/User Creation , Storing Username & Password.md",
     "Backend_Dev/Spring Boot/Spring Security",
     "DSA/Binary Search",
     "DSA/String",
     "Backend_Dev/Spring Boot/JPA",
-    "DSA/Array",
-    "Untitled.base",
     "System_Design/Untitled.canvas",
     "Frontend_Dev/Javascript/Working Of Functions.canvas",
     "Untitled.canvas",
